@@ -21,7 +21,7 @@ Dataset ini berisi data historis penjualan rumah dengan fitur utama berikut:
 ## 🚀 Cara Menggunakan  
 1. Clone repositori:  
    ```bash
-   git clone https://github.com/username/prediksi-harga-rumah.git
+   git clone https://github.com/valenreswara/Datacamp-Practical-Exam.git
    ```
 2. Instal dependensi:  
    ```bash
